@@ -4,7 +4,7 @@ Aplicação web para calcular o Índice de Massa Corporal (IMC) e classificar o 
 
 ## 🚀 Demo
 
-> Em breve
+[🔗 Acesse o projeto aqui](https://lucasimoes6.github.io/calculadora-imc)
 
 ## 📸 Preview
 
